@@ -1,0 +1,34 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+.crunchdao/
+**/.crunchdao/
+*.pem
+*.key
+*credentials*
+*token*
+# Data, model weights, caches and outputs
+data/
+external-artifacts/
+resources/
+**/resources/
+*.parquet
+*.csv
+*.npy
+*.npz
+*.pt
+*.pth
+*.pkl
+*.pickle
+*.joblib
+*.safetensors
+*.onnx
+*.zip
+*.tar
+*.gz
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store

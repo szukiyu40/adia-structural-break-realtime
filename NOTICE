@@ -1,0 +1,8 @@
+Online Structural Break Detection
+Copyright 2026 Yu Suzuki
+
+This source release uses Chronos-2 and the NLinear idea from LTSF-Linear.
+Chronos-forecasting: Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+LTSF-Linear: Copyright 2022 DLinear Authors. All rights reserved.
+See licenses/ for upstream license text and notices. Dependencies retain their own licenses.
+Publication-only path and provenance changes are marked in the affected files.

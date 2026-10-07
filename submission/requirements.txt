@@ -1,0 +1,12 @@
+numpy==2.3.3
+lightgbm==4.6.0
+xgboost==3.0.4
+scipy==1.17.1
+pandas==3.0.5
+pyarrow==25.0.1
+torch==2.7.1+cu118
+chronos-forecasting==2.3.2
+transformers==5.16.1
+accelerate==1.14.0
+scikit-learn==1.9.0
+threadpoolctl==3.6.0
